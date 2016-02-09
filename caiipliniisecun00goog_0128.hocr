@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./caiipliniisecun00goog_0128.png"; bbox 0 0 2000 3609; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 810 1037 956 1810">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 810 1037 956 1810">
+     <span class='ocr_line' id='line_1_1' title="bbox 893 1037 956 1806; baseline 384.5 -2691.5"><span class='ocrx_word' id='word_1_1' title='bbox 893 1037 956 1806; x_wconf 54' lang='lat' dir='ltr'><em>22...1.2„..J.„</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 810 1041 909 1810; baseline -769 10766"><span class='ocrx_word' id='word_1_2' title='bbox 810 1041 909 1368; x_wconf 33' lang='lat' dir='ltr'><em>:av-Q..</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 825 1501 890 1660; x_wconf 44' lang='grc' dir='ltr'><em>,επ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 824 1781 864 1810; x_wconf 58' lang='lat' dir='ltr'>a</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1004 3609">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1004 3609">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1004 3609"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1004 3609; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
